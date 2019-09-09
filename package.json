@@ -1,0 +1,22 @@
+{
+  "name": "beatween",
+  "version": "0.0.1",
+  "description": "A helper for beatsyncing tweens, actions and audio playbacks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berg-rickard/beatween.git"
+  },
+  "keywords": [
+    "WebAudio"
+  ],
+  "author": "Rickard Berg (rickard@emerbee.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/berg-rickard/beatween/issues"
+  },
+  "homepage": "https://github.com/berg-rickard/beatween#readme"
+}
